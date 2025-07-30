@@ -16,7 +16,7 @@ Este repositório é um acervo de **scripts e projetos práticos** desenvolvidos
 
 Apesar do foco em SysAdmin, esta automação de backup para FortiGate é um excelente exemplo de como otimizar tarefas cruciais de segurança. Confira o tutorial detalhado de como configurar um backup semanal automático do seu FortiGate para um servidor FTP, garantindo a segurança e disponibilidade das suas configurações essenciais.
 
-* [**Acesse o Tutorial de Backup FortiGate**](SCRIPTS/fortigate-scripts/✨Automação de Backup FortiGate para Servidor FTP✨.docx)
+* [**Acesse o Tutorial de Backup FortiGate**](SCRIPTS/fortigate-scripts/Automação de Backup FortiGate para Servidor FTP.docx)
 ---
 
 ### 🚀 Como Usar Este Repositório
